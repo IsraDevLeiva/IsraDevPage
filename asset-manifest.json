@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IsraDevPage/static/css/main.3dd30fa6.css",
+    "main.js": "/IsraDevPage/static/js/main.3aca8326.js",
+    "static/media/i2.jpg": "/IsraDevPage/static/media/i2.e5193bd445973380bf01.jpg",
+    "static/media/i1.jpg": "/IsraDevPage/static/media/i1.00511d49b86bea8a7bcb.jpg",
+    "static/media/i3.jpg": "/IsraDevPage/static/media/i3.cfc6842f4592455fcc7d.jpg",
+    "index.html": "/IsraDevPage/index.html",
+    "main.3dd30fa6.css.map": "/IsraDevPage/static/css/main.3dd30fa6.css.map",
+    "main.3aca8326.js.map": "/IsraDevPage/static/js/main.3aca8326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd30fa6.css",
+    "static/js/main.3aca8326.js"
+  ]
+}
